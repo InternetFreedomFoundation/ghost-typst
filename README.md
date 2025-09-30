@@ -2,7 +2,7 @@
 
 A [Typst](https://typst.app) template which generates PDF by consuming data from Ghost JSON export.
 
-Accompanying blog post can be found [here](https://djoker.tech/posts/programatically-generating-pdf/).
+Accompanying blog post can be found [here](https://djoker.dev/posts/programatically-generating-pdf/).
 
 ## Usage
 
